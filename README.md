@@ -26,8 +26,6 @@ The Hardware Connection: When I’m not in the IDE, you’ll find me in the worl
 
 ## 🛠 Tech Stack & Tools
 
-## 🛠 Tech Stack & Tools
-
 ### 🌐 Software Development
 | Category | Tools |
 | :--- | :--- |
