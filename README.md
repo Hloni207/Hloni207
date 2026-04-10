@@ -1,6 +1,6 @@
-## Hi there 👋
+## 🏄‍♂️ Hloni207
 
-<!--
+**Digital Craftsman**
 **Hloni207/Hloni207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an application developer focused on AI ecosystems and frontend design.
+[ ![YouTube Subscribe](https://img.shields.io/badge/SUBSCRIBE-red?style=for-the-badge&logo=youtube&logoColor=white) ]([YOUR_LINK](https://www.youtube.com/channel/UCd2_EjOdePU6sk9h-zYOisA))
